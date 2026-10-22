@@ -1,21 +1,21 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-light.svg" width="960" alt="Banner de Benjamin Valenzuela, desarrollador full-stack">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-red.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light-red.svg">
+  <img src="assets/banner-light-red.svg" width="960" alt="Banner de Benjamin Valenzuela, desarrollador full-stack">
 </picture>
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Benjamin+Valenzuela+%E2%80%94+Full-Stack+Developer;Next.js+%7C+PostgreSQL+%7C+TypeScript;Aplicaciones+web+claras+y+mantenibles;Santiago%2C+Chile">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=0E7490&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Benjamin+Valenzuela+%E2%80%94+Full-Stack+Developer;Next.js+%7C+PostgreSQL+%7C+TypeScript;Aplicaciones+web+claras+y+mantenibles;Santiago%2C+Chile" alt="Benjamin Valenzuela — Full-Stack Developer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=EF4444&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Benjamin+Valenzuela+%E2%80%94+Full-Stack+Developer;Next.js+%7C+PostgreSQL+%7C+TypeScript;Aplicaciones+web+claras+y+mantenibles;Santiago%2C+Chile">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=B91C1C&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Benjamin+Valenzuela+%E2%80%94+Full-Stack+Developer;Next.js+%7C+PostgreSQL+%7C+TypeScript;Aplicaciones+web+claras+y+mantenibles;Santiago%2C+Chile" alt="Benjamin Valenzuela — Full-Stack Developer">
 </picture>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=BenVal2&amp;style=flat&amp;color=0E7490&amp;label=profile+views" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=BenVal2&amp;style=flat&amp;color=B91C1C&amp;label=profile+views" alt="profile views">
 
 </div>
 
@@ -25,9 +25,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.svg">
-    <img src="assets/terminal-light.svg" width="960" alt="Terminal con el perfil de Benjamin Valenzuela">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark-red.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light-red.svg">
+    <img src="assets/terminal-light-red.svg" width="960" alt="Terminal con el perfil de Benjamin Valenzuela">
   </picture>
 </p>
 
@@ -56,10 +56,10 @@
 <div align="center">
 
 <a href="https://github.com/BenVal2">
-  <img src="https://img.shields.io/badge/GitHub-BenVal2-0B1B2E?style=for-the-badge&amp;logo=github&amp;logoColor=22D3EE" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-BenVal2-0A0A0A?style=for-the-badge&amp;logo=github&amp;logoColor=EF4444" alt="GitHub">
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Santiago-Chile-0B1B2E?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=FBBF24" alt="Santiago, Chile">
+<img src="https://img.shields.io/badge/Santiago-Chile-0A0A0A?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=EF4444" alt="Santiago, Chile">
 
 </div>
 

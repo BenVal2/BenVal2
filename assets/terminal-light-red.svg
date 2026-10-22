@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="330" viewBox="0 0 960 330" role="img" aria-labelledby="title desc">
+  <title id="title">Terminal de perfil de Benjamin Valenzuela</title>
+  <desc id="desc">Ventana de terminal con quién es, su enfoque y sus proyectos.</desc>
+  <defs>
+    <linearGradient id="tbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#F5F5F5"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="330" rx="16" fill="url(#tbg)"/>
+  <rect x="0.5" y="0.5" width="959" height="329" rx="16" fill="none" stroke="#D4D4D4"/>
+  <rect width="960" height="40" rx="16" fill="#F5F5F5"/>
+  <rect y="24" width="960" height="16" fill="#F5F5F5"/>
+  <circle cx="22" cy="20" r="5" fill="#7F1D1D"/>
+  <circle cx="42" cy="20" r="5" fill="#DC2626"/>
+  <circle cx="62" cy="20" r="5" fill="#EF4444"/>
+  <text x="84" y="24" font-family="'JetBrains Mono', monospace" font-size="11" fill="#525252">benjamin@github: ~/profile</text>
+  <text x="36" y="86" font-family="'JetBrains Mono', monospace" font-size="13" fill="#B91C1C">$</text>
+  <text x="56" y="86" font-family="'JetBrains Mono', monospace" font-size="13" fill="#171717">whoami</text>
+  <text x="36" y="118" font-family="'Inter', 'Segoe UI', sans-serif" font-size="24" font-weight="700" fill="#B91C1C">Benjamin Valenzuela</text>
+  <text x="36" y="144" font-family="'JetBrains Mono', monospace" font-size="13" fill="#525252">Full-stack developer · Santiago, Chile</text>
+  <text x="36" y="184" font-family="'JetBrains Mono', monospace" font-size="13" fill="#B91C1C">$</text>
+  <text x="56" y="184" font-family="'JetBrains Mono', monospace" font-size="13" fill="#171717">cat focus.txt</text>
+  <text x="36" y="212" font-family="'JetBrains Mono', monospace" font-size="13" fill="#171717">Aplicaciones web con Next.js, PostgreSQL y TypeScript.</text>
+  <text x="36" y="234" font-family="'JetBrains Mono', monospace" font-size="13" fill="#171717">Interfaces claras, datos ordenados y código mantenible.</text>
+  <text x="36" y="274" font-family="'JetBrains Mono', monospace" font-size="13" fill="#B91C1C">$</text>
+  <text x="56" y="274" font-family="'JetBrains Mono', monospace" font-size="13" fill="#171717">ls projects/</text>
+  <text x="36" y="302" font-family="'JetBrains Mono', monospace" font-size="13" fill="#B91C1C">cesfam-agendamiento/</text>
+  <text x="256" y="302" font-family="'JetBrains Mono', monospace" font-size="13" fill="#B91C1C">peluqueria-canina/</text>
+  <text x="446" y="302" font-family="'JetBrains Mono', monospace" font-size="13" fill="#B91C1C">colaciones-carito/</text>
+  <rect x="36" y="314" width="8" height="12" fill="#B91C1C" opacity="0.85"/>
+</svg>
