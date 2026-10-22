@@ -15,7 +15,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=BenVal2&amp;style=flat&amp;color=B91C1C&amp;label=profile+views" alt="profile views">
+<img src="assets/status-badge.svg" width="320" alt="Full-stack developer · Santiago, Chile">
 
 </div>
 
